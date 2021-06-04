@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+img {
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    margin-top: 45vm;
+}
+
+#search {
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    width: 310px;
+}
