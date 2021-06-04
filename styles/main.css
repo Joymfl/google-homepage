@@ -1,40 +1,58 @@
-body {
-    background-color: white;
-}
-
-img {
-    position: absolute;
-    left: 40%;
-    top: 30%;
-    margin-top: 45vm;
-}
-
-#search {
-    position: absolute;
-    left: 40%;
-    top: 50%;
-    width: 310px;
-    border-radius: 15%;
-}
-
-#navbar {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-}
-
-p {
-    margin: 20px;
-}
-
-#gsearch {
-    position: absolute;
-    top: 55%;
-    left: 40%;
-}
-
-#Lucky {
-    position: absolute;
-    top: 55%;
-    left: 50%;
-}
+                                body {
+                                    background-color: white;
+                                }
+                                
+                                img {
+                                    position: absolute;
+                                    left: 40%;
+                                    top: 30%;
+                                    margin-top: 45vm;
+                                }
+                                
+                                #search {
+                                    position: absolute;
+                                    left: 40%;
+                                    top: 50%;
+                                    width: 310px;
+                                    border-radius: 15%;
+                                }
+                                
+                                #navbar {
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: flex-end;
+                                }
+                                
+                                p {
+                                    margin: 20px;
+                                }
+                                
+                                #gsearch {
+                                    position: absolute;
+                                    top: 55%;
+                                    left: 40%;
+                                }
+                                
+                                #Lucky {
+                                    position: absolute;
+                                    top: 55%;
+                                    left: 50%;
+                                }
+                                
+                                #footer {
+                                    display: flex;
+                                    position: absolute;
+                                    bottom: 0px;
+                                    left: 0px;
+                                    width: 100%;
+                                    background-color: grey;
+                                }
+                                
+                                #location {
+                                    display: flex;
+                                    position: absolute;
+                                    bottom: 45px;
+                                    background-color: grey;
+                                    width: 100%;
+                                    left: 0px;
+                                }
